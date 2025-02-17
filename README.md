@@ -1,4 +1,4 @@
-@using input file we can enter the data which is needed to encrypt 
+!using input file we can enter the data which is needed to encrypt 
 
 @the encrypted output is store in encrypted_output file
 
