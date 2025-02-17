@@ -4,4 +4,4 @@ The encrypted output is store in encrypted_output file.
 
 The decrypted output is stored in decrypted_output file.
 
-Using en() to encrypt and de() to decrypt to use functionalities.
+Using en() to encrypt and de() to decrypt.
